@@ -1,2 +1,2 @@
-web: gunicorn VDS_climate_dashboard:app
+web: gunicorn Report.py
 
