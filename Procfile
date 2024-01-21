@@ -1,2 +1,2 @@
-web: gunicorn Report.py
+worker: python Report.py
 
