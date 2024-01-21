@@ -7,7 +7,7 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 import plotly.express as px
 
-# Load the dataset
+# Load the Dataset
 df = pd.read_csv('climate_change_data.csv')
 
 # Initialize the Dash app
